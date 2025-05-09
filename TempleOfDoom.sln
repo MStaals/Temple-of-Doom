@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempleOfDoom", "TempleOfDoom\TempleOfDoom.csproj", "{9BDB8581-2452-4D2A-B2AE-E8DBA7B1EF6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempleOfDoom.data", "TempleOfDoom.data\TempleOfDoom.data.csproj", "{F2B16C54-B82B-42A3-83EC-64E0C0170FAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempleOfDoom.ui", "TempleOfDoom.ui\TempleOfDoom.ui.csproj", "{7629E76A-23A7-4BDB-8264-EA8C79E76AE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BDB8581-2452-4D2A-B2AE-E8DBA7B1EF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDB8581-2452-4D2A-B2AE-E8DBA7B1EF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDB8581-2452-4D2A-B2AE-E8DBA7B1EF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDB8581-2452-4D2A-B2AE-E8DBA7B1EF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B16C54-B82B-42A3-83EC-64E0C0170FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B16C54-B82B-42A3-83EC-64E0C0170FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B16C54-B82B-42A3-83EC-64E0C0170FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B16C54-B82B-42A3-83EC-64E0C0170FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7629E76A-23A7-4BDB-8264-EA8C79E76AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7629E76A-23A7-4BDB-8264-EA8C79E76AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7629E76A-23A7-4BDB-8264-EA8C79E76AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7629E76A-23A7-4BDB-8264-EA8C79E76AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

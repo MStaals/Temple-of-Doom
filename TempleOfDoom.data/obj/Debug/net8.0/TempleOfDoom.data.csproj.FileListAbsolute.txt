@@ -1,0 +1,13 @@
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.data\bin\Debug\net8.0\TempleOfDoom.data.deps.json
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.data\bin\Debug\net8.0\TempleOfDoom.data.dll
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.data\bin\Debug\net8.0\TempleOfDoom.data.pdb
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.data\obj\Debug\net8.0\TempleOfDoom.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.data\obj\Debug\net8.0\TempleOfDoom.data.AssemblyInfoInputs.cache
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.data\obj\Debug\net8.0\TempleOfDoom.data.AssemblyInfo.cs
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.data\obj\Debug\net8.0\TempleOfDoom.data.csproj.CoreCompileInputs.cache
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.data\obj\Debug\net8.0\TempleOfDoom.data.sourcelink.json
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.data\obj\Debug\net8.0\TempleOfDoom.data.dll
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.data\obj\Debug\net8.0\refint\TempleOfDoom.data.dll
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.data\obj\Debug\net8.0\TempleOfDoom.data.pdb
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.data\obj\Debug\net8.0\ref\TempleOfDoom.data.dll
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.data\obj\Debug\net8.0\TempleOfDoom.data.csproj.AssemblyReference.cache

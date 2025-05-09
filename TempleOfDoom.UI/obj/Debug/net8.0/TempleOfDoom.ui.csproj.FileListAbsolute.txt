@@ -1,0 +1,16 @@
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\bin\Debug\net8.0\TempleOfDoom.ui.deps.json
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\bin\Debug\net8.0\TempleOfDoom.ui.dll
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\bin\Debug\net8.0\TempleOfDoom.ui.pdb
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\bin\Debug\net8.0\TempleOfDoom.data.dll
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\bin\Debug\net8.0\TempleOfDoom.data.pdb
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\obj\Debug\net8.0\TempleOfDoom.ui.csproj.AssemblyReference.cache
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\obj\Debug\net8.0\TempleOfDoom.ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\obj\Debug\net8.0\TempleOfDoom.ui.AssemblyInfoInputs.cache
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\obj\Debug\net8.0\TempleOfDoom.ui.AssemblyInfo.cs
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\obj\Debug\net8.0\TempleOfDoom.ui.csproj.CoreCompileInputs.cache
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\obj\Debug\net8.0\TempleOfDoom.ui.sourcelink.json
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\obj\Debug\net8.0\TempleOf.98192499.Up2Date
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\obj\Debug\net8.0\TempleOfDoom.ui.dll
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\obj\Debug\net8.0\refint\TempleOfDoom.ui.dll
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\obj\Debug\net8.0\TempleOfDoom.ui.pdb
+C:\Code\deelopdracht-1-24-25-temple-of-doom-rodinvdberg_maxstaals-1\Temple_of_doom\TempleOfDoom.ui\obj\Debug\net8.0\ref\TempleOfDoom.ui.dll
